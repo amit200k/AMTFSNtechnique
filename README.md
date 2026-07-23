@@ -56,9 +56,17 @@ Files to Package for Standalone MATLAB Application
 -This readme file 
 
 3. Definitions
+   For information on deployment terminology, go to https://www.mathworks.com/help and select MATLAB Compiler > Getting Started > About Application Deployment > Deployment Product Terms in the MathWorks Documentation center.
 
-For information on deployment terminology, go to
-https://www.mathworks.com/help and select MATLAB Compiler >
-Getting Started > About Application Deployment >
+4. Once installed, open the application.
+
+5. Enter the "sampling frequency" of the mEEG signal (e.g., 128 Hz).
+
+6. "Load" the EEG file in CSV (.csv) format from the specified "file path".
+
+7. Click on the "PredictButton" to begin the analysis.
+
+8. The predicted results will be displayed in the "Result" sections.
+
 Deployment Product Terms in the MathWorks Documentation
 Center.

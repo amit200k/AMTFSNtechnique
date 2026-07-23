@@ -63,11 +63,8 @@ Files to Package for Standalone MATLAB Application
 
 5. Enter the "sampling frequency" of the mEEG signal (e.g., 128 Hz).
 
-6. "Load" the EEG file in CSV (.csv) format from the specified "file path".
+6. "Load" the mEEG file in CSV (.csv) format from the specified "file path".
 
 7. Click on the "PredictButton" to begin the analysis.
 
 8. The predicted results will be displayed in the "Result" sections.
-
-Deployment Product Terms in the MathWorks Documentation
-Center.
